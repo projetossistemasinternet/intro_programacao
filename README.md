@@ -12,7 +12,7 @@ Website para organização de estudantes, com duas funcionalidades principais:
 
 
 ## Trabalho realizado por:
-- https://github.com/JuanFiuza
-- https://github.com/andresilvm
-- https://github.com/Caio01fds
-- https://github.com/LucasWFragoso
+- [Juan Fiuza](https://github.com/JuanFiuza)
+- [André Silva](https://github.com/andresilvm)
+- [Caio Felipe](https://github.com/Caio01fds)
+- [Lucas Fragoso](https://github.com/LucasWFragoso)
