@@ -4,9 +4,19 @@
 Website para organização de estudantes, com duas funcionalidades principais:
 - Glossário de termos aprendidos nas aulas;
 - Gestor de tarefas;
+- Sobre a Equipe.
   
-## Figma
-
+## Instruções de Inicialização
+- clonar o repositorio;
+- Entrar na sua branch "develop_seunome";
+- Criar o ambiente virtual usando o comando:
+  "python -m venv venv"
+- Entrar no ambiente virtual:
+  "venv/Scripts/activate"
+- instalar dependências:
+ "pip install -r requirements.txt
+- rodar servidor:
+ "python main.py"
 
 ## Link do Deploy
 
